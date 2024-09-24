@@ -9,5 +9,7 @@ Prerequisites
 Before running the automation tests, ensure the following are installed:
 
 Java Development Kit (JDK) 
+
 Maven (or Gradle, depending on your project)
+
 Any IDE (e.g., IntelliJ IDEA, Eclipse)
