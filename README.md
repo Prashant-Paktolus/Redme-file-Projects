@@ -1,1 +1,3 @@
-# Redme-file-Projects
+# API Automation
+
+Project Overview This project is designed for automating API testing using Rest Assured. The goal is to validate the functionality of the API endpoints, ensuring they work as expected across various scenarios.
